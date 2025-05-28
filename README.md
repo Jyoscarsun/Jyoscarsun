@@ -1,4 +1,6 @@
-# 👋 Hi there, my name is Oscar! 
+# 👋 Hi there, I'm Oscar! 
+
+Welcome to my GitHub! I'm an Electrical and Computer Engineering student at the University of Toronto with a strong interest in autonomous systems, hardware acceleration, and embedded AI. My work focuses on building scalable, high-performance solutions at the intersection of machine intelligence and real-time systems. Feel free to explore my repositories to see what I’ve been working on.
 
 <!--
 **Jyoscarsun/Jyoscarsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
