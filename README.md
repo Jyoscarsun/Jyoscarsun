@@ -3,8 +3,15 @@
 Welcome to my GitHub! I'm an Electrical and Computer Engineering student at the University of Toronto with a strong interest in autonomous systems, hardware acceleration, and embedded AI. My work focuses on building scalable, high-performance solutions at the intersection of machine intelligence and real-time systems. Feel free to explore my repositories to see what I’ve been working on.
 
 ## 🔭 What I’m currently working on ...
-* 💽 **Research Intern** @ Natalie Enright Jerger Group - working on **compiler optimization of PyTorch** when lowering into AMD NPU hardware
-* 
+* 💽 **Research Intern** @ Natalie Enright Jerger Group - working on **compiler optimization and lowering of PyTorch** into AMD NPU hardware
+* 🏎️ **Deep Learning Lead** @ UTFR (UofT Formula Racing) - **YOLO** deep perception and **3dod** in autonomous driving
+
+## 🧰 Tech Stack
+**Software**: Python, C/C++, Java, MATLAB, R, HTML, CSS, Ardunio
+**Hardware**: SystemVerilog, Assembly
+**ML/AI**: PyTorch, YOLO, Scikit-learn, Azure-AI
+**Developer Tools**: Git, Linux, Ubuntu, ROS, Latex
+
 <!--
 **Jyoscarsun/Jyoscarsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
