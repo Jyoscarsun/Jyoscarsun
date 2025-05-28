@@ -3,10 +3,10 @@
 Welcome to my GitHub! I'm an Electrical and Computer Engineering student at the University of Toronto with a strong interest in autonomous systems, hardware acceleration, and embedded AI. My work focuses on building scalable, high-performance solutions at the intersection of machine intelligence and real-time systems. Feel free to explore my repositories to see what I’ve been working on.
 
 ## 💬 Themes of my work
-* Hardware and compiler acceleration
-* Optimization problems
-* Perception pipeline in autonomous vehicles
-* Wireless communication and network
+🖥️ Hardware and compiler acceleration<br>
+♾️ Optimization problems<br>
+👁️‍🗨️ Perception pipeline in autonomous vehicles<br>
+🌐 Wireless communication and network<br>
 
 ## 🔭 What I’m currently working on ...
 * 💽 **Research Intern** @ Natalie Enright Jerger Group - **compiler optimization and lowering of PyTorch** into AMD NPU hardware
