@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm an Electrical and Computer Engineering student at the 
 ## 🕶️ Glimpse into the past...
 * 🛜 **Hardware Engineer** @ iGEM Toronto - **wireless communication** of a wetlab fridge management system
 * 🎞️ **Hackathon Director** @ UofT Robotics Association - oversaw the **largest robotics hackathon** in Canada
-* 🎞️ **Software Developer** @ Autonomous Rover Team - worked with classical and deep perception pipelines in ROS
+* 🤖 **Software Developer** @ Autonomous Rover Team - worked with classical and deep perception pipelines in ROS
 * 💊 **Research Student** @ Applied Optimization Lab - optimization of AED placement and isocenter selection methodology
 
 ## 🧰 Tech Stack
