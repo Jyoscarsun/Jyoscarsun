@@ -1,4 +1,4 @@
-## 👋 Hi there, my name is Oscar! 
+# 👋 Hi there, my name is Oscar! 
 
 <!--
 **Jyoscarsun/Jyoscarsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
