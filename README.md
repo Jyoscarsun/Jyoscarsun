@@ -7,10 +7,10 @@ Welcome to my GitHub! I'm an Electrical and Computer Engineering student at the 
 * 🏎️ **Deep Learning Lead** @ UTFR (UofT Formula Racing) - **YOLO** deep perception and **3dod** in autonomous driving
 
 ## 🧰 Tech Stack
-**Software**: Python, C/C++, Java, MATLAB, R, HTML, CSS, Ardunio
-**Hardware**: SystemVerilog, Assembly
-**ML/AI**: PyTorch, YOLO, Scikit-learn, Azure-AI
-**Developer Tools**: Git, Linux, Ubuntu, ROS, Latex
+**Software**: Python, C/C++, Java, MATLAB, R, HTML, CSS, Arduino  
+**Hardware**: SystemVerilog, Assembly  
+**ML/AI**: PyTorch, YOLO, Scikit-learn, Gurobi Optimizer, Azure-AI  
+**Developer Tools**: Git, Linux, Ubuntu, ROS, LaTeX
 
 <!--
 **Jyoscarsun/Jyoscarsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
