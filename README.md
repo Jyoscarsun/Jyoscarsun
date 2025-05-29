@@ -21,10 +21,10 @@ Welcome to my GitHub! I'm an Electrical and Computer Engineering student at the 
 * 💊 **Research Student** @ Applied Optimization Lab - optimization of AED placement and isocenter selection methodology
 
 ## 🧰 Tech Stack
-**Software**: Python, C/C++, Java, MATLAB, R, HTML, CSS, Arduino  
-**Hardware**: SystemVerilog, Assembly  
+**Software**: Python, C/C++, Java, JavaScript, MATLAB, R, HTML, CSS, Arduino  
+**Hardware**: SystemVerilog, Assembly, MLIR 
 **ML/AI**: PyTorch, YOLO, Scikit-learn, Gurobi Optimizer, Azure-AI  
-**Developer Tools**: Git, Linux, Ubuntu, ROS, LaTeX
+**Developer Tools**: Git, Linux, Ubuntu, ROS, LaTeX, MongoDB
 
 ## 📫 Find me at ...
 * 🌐**Portfolio**: https://oscarsun.netlify.app/
