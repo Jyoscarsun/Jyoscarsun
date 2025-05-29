@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm an Electrical and Computer Engineering student at the 
 
 ## 🧰 Tech Stack
 **Software**: Python, C/C++, Java, JavaScript, MATLAB, R, HTML, CSS, Arduino  
-**Hardware**: SystemVerilog, Assembly, MLIR 
+**Hardware**: SystemVerilog, MLIR, Assembly 
 **ML/AI**: PyTorch, YOLO, Scikit-learn, Gurobi Optimizer, Azure-AI  
 **Developer Tools**: Git, Linux, Ubuntu, ROS, LaTeX, MongoDB
 
